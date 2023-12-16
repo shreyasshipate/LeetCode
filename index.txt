@@ -1,0 +1,1 @@
+This is sample text.The file is created for git bash practice.
